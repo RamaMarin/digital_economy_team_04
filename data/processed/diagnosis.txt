@@ -1,0 +1,9 @@
+1) México obtiene un DRS de 4.7/100 y ocupa el lugar 5 de 5 (rango de las otras cuatro: 52.2–75.7). El índice es relativo a este grupo, no absoluto.
+
+2) Principal fortaleza: Exportaciones bienes TIC — 12.45 (% de exportaciones de bienes), lugar 2 de 5 (+11 puntos frente al promedio de los otros cuatro).
+
+3) Principal brecha: Gasto en I+D (% PIB) — 0.27 (% del PIB), lugar 5 de 5 (-91 puntos).
+
+4) Japón es el punto de comparación más útil: tiene el perfil más cercano al de México (distancia euclidiana mínima en los indicadores normalizados) y la diferencia más grande con él está en «Patentes residentes /millón», por lo que es la brecha más accionable; el contraste máximo es con China.
+
+5) Limitación principal: solo cinco economías y ocho indicadores; la normalización min-max depende de los extremos del grupo, varios indicadores son proxies (p. ej., servidores seguros como cómputo) y ninguno mide calidad del servicio, habilidades ni IA. Además, los años de observación pueden diferir entre indicadores (ver Source Log).
