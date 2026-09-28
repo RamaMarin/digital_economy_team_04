@@ -197,19 +197,4 @@ Team04_DigitalEconomy/
    - Debe verse en una sola pantalla razonable.
    - Revisar que no haya errores y pulir diseño si hace falta.
 
----
 
-## 9. Reglas y advertencias clave (imperdibles)
-
-- **No hay datos sintéticos** ni completados a mano. Un valor no disponible queda vacío (`NaN`) y **nunca** se confunde con cero.
-- **Desfases de años** entre indicadores deben reportarse (columnas `*_year` y sección 2 del notebook). **Nada se imputa.**
-- **DRS relativo** al grupo de 5 economías: **no interpretarlo** como nivel absoluto; la sensibilidad está incluida.
-- **I6 (bienes TIC)** puede reflejar ensamblaje/maquila (relevante para México) y **no captura de valor**; peso bajo (10%) a propósito.
-- **I2** es un proxy débil de Compute; **no hay indicador de calidad del servicio** (velocidad/latencia): se declara, no se fuerza.
-- Con **n=5**, clustering y correlaciones son **exploratorios**.
-- **Ningún archivo de `data/raw/` se edita jamás.** Quedarán los JSON/CSV originales sin tocar.
-- **Mínimo 3 visualizaciones**, cada una con las preguntas: *"¿Qué observo? / ¿Qué significa? / ¿Qué no puedo concluir?".
-- **Diagnóstico final ≤ 250 palabras** con `assert` de verificación de longitud.
-- **Pesos suman 1.00**; capacidad tecnológica pesa 30% por ser el sector Ciencia.
-
----
